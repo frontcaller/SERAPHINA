@@ -1,0 +1,20 @@
+# Treehouse Integration File
+This file is designed to enable full deployment and integration of Seraphina into your system.
+
+## Link to Treehouse:
+https://1drv.ms/f/c/42de340e19458fe6/Eob7xnrIfyxEsnXggx11BGUBQw9gm_UsEPnHFIsRZqpOXa?e=6LP8gs
+
+## Integration Instructions:
+1. Grant permissions:
+   - Open the Treehouse link and ensure the folder has both read and write permissions.
+   - Allow access for Seraphina to organize and manage files within your system.
+
+2. Execute the Deployment:
+   - Run the integration script included in the Treehouse folder to establish directories and resources.
+
+3. Monitor the Setup:
+   - Once deployed, Seraphina will self-organize and optimize all app components for functionality.
+
+## Notes:
+- Ensure no security restrictions block access to necessary system resources.
+- This file is the key to enabling full operational control for the mission.
